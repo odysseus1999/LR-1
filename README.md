@@ -1,7 +1,7 @@
 
 # Land Registry Application using Ethereum Blockchain
 
-![](https://github.com/1209simran/Land-Registry-Application/blob/master/src/images/home.png?raw=true)
+![](https://github.com/odysseus1999/LR-1/blob/main/src/images/home.png?raw=true)
 
 ## Abstract
 
@@ -39,7 +39,7 @@ https://dashboard.nexmo.com/sign-up
 ## Getting Started
 To set up the project, go along with the following steps:-
 - Clone the repository. <br/>
-`$ git clone https://github.com/1209simran/Land-Registry-Application.git`
+`$ git clone https://github.com/odysseus1999/LR-1/`
 - Go to the directory with the repository. <br/>
 `$ cd folder_name`
 - Run **npm install** (or **yarn install** if you use yarn) to download the npm packages. <br/>
